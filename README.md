@@ -1,9 +1,7 @@
 # 🦊 Fox and Coin Game 🪙
-
 Welcome to the exciting world of the **Fox and Coin Game**! This is a simple yet thrilling game where you control a fox to collect as many coins as possible within a limited time. The game is built using Python and the Pygame Zero library.
 
 ## 🎮 How to Play
-
 The game is straightforward. You control a fox that moves around the screen to collect coins. Each time the fox touches a coin, your score increases by 10 points, and a new coin appears at a random location on the screen. But be quick! You only have 7 seconds to collect as many coins as you can.
 
 ## 📝 Code Explanation
